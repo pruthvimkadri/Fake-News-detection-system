@@ -55,7 +55,7 @@ python app.py
 http://127.0.0.1:5000/
 
 ## Screenshots
-(Add your project screenshots here)
+<img width="974" height="340" alt="image" src="https://github.com/user-attachments/assets/9ac5f565-e8b8-4822-aa1c-51c185b42c51" />
 
 ## Future Improvements
 - Better real-world generalization
